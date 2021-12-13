@@ -1,2 +1,2 @@
 # Innovation_ML
-ML implementation of WaterLogs DataSet.
+<h1>Aqualizer</h1> ML implementation of WaterLogs DataSet.
